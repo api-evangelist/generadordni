@@ -1,0 +1,32 @@
+aid: generadordni
+name: GeneradorDNI
+description: "Data generator API. Profiles, vehicles, banks and cards, etc"
+url: https://api.generadordni.es
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Test Data"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Test Data
+  - Public APIs
+apis:
+  - name: GeneradorDNI
+    description: "Data generator API. Profiles, vehicles, banks and cards, etc"
+    humanURL: https://api.generadordni.es
+    baseURL: https://api.generadordni.es
+    tags:
+      - Test Data
+    properties:
+      - type: Documentation
+        url: https://api.generadordni.es
+common:
+  - type: Website
+    url: https://api.generadordni.es
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
