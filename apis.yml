@@ -14,7 +14,7 @@ image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/generadord
 name: GeneradorDNI
 description: "Data generator API. Profiles, vehicles, banks and cards, etc"
 url: https://api.generadordni.es
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-05-28'
 modified: '2026-05-28'
 x-source: public-apis/public-apis
