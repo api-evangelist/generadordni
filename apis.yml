@@ -39,7 +39,6 @@ apis:
   - name: GeneradorDNI
     description: "Data generator API. Profiles, vehicles, banks and cards, etc"
     humanURL: https://api.generadordni.es
-    baseURL: https://api.generadordni.es
     tags:
       - Test Data
     properties:
